@@ -13,7 +13,7 @@ namespace SocialAppTest
         [TestMethod]
         public void TestMethod1()
         {
-            const string actual= "Hello world from social app";
+            const string actual= "Hello world from social app CI/CD";
             Test t = new Test();
             string expected = t.HelloWorld();
             Assert.AreEqual(expected, actual);

@@ -9,7 +9,7 @@ namespace SocialApp.Models
     {
         public string HelloWorld()
         {
-            return "Hello world from social app";
+            return "Hello world from social app CI/CD";
         }
     }
 }
